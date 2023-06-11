@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DrivableTraderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-11T21:36:12" hostname="Jaspreets-MBP.ht.home" time="0.003">
+  <properties/>
+  <testcase name="TestGetSellingPriceVaryingSpeed" classname="DrivableTraderTest" time="0.002"/>
+  <testcase name="TestGetSellingPrice" classname="DrivableTraderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
